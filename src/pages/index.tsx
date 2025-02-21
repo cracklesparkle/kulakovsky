@@ -10,61 +10,61 @@ const newsData = [
     title: 'Прошел творческий конкурс',
     description: 'Лучшие работы были награждены на фестивале',
     link: '',
-    thumb: '/news1.jpg'
+    thumb: '/kbuild/news1.jpg'
   },
   {
     title: 'Запуск нового проекта',
     description: 'Открытие образовательного интенсива',
     link: '',
-    thumb: '/news2.jpg'
+    thumb: '/kbuild/news2.jpg'
   },
   {
     title: 'Фестиваль национальных культур',
     description: 'Молодежь представила традиции и обычаи',
     link: '',
-    thumb: '/news3.jpg'
+    thumb: '/kbuild/news3.jpg'
   },
   {
     title: 'Новый курс по видеомонтажу',
     description: 'Старт бесплатных мастер-классов',
     link: '',
-    thumb: '/news4.jpg'
+    thumb: '/kbuild/news4.jpg'
   },
   {
     title: 'Прошел творческий конкурс',
     description: 'Лучшие работы были награждены на фестивале',
     link: '',
-    thumb: '/news1.jpg'
+    thumb: '/kbuild/news1.jpg'
   },
   {
     title: 'Запуск нового проекта',
     description: 'Открытие образовательного интенсива',
     link: '',
-    thumb: '/news2.jpg'
+    thumb: '/kbuild/news2.jpg'
   },
   {
     title: 'Фестиваль национальных культур',
     description: 'Молодежь представила традиции и обычаи',
     link: '',
-    thumb: '/news3.jpg'
+    thumb: '/kbuild/news3.jpg'
   },
   {
     title: 'Новый курс по видеомонтажу',
     description: 'Старт бесплатных мастер-классов',
     link: '',
-    thumb: '/news4.jpg'
+    thumb: '/kbuild/news4.jpg'
   },
   {
     title: 'Фестиваль национальных культур',
     description: 'Молодежь представила традиции и обычаи',
     link: '',
-    thumb: '/news3.jpg'
+    thumb: '/kbuild/news3.jpg'
   },
   {
     title: 'Новый курс по видеомонтажу',
     description: 'Старт бесплатных мастер-классов',
     link: '',
-    thumb: '/news4.jpg'
+    thumb: '/kbuild/news4.jpg'
   },
 ]
 

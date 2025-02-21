@@ -4,9 +4,9 @@ import React, { useEffect, useState } from 'react'
 import styles from '@/components/Hero/Hero.module.scss'
 
 const heroData = [
-    { link: '/about', image: '/kulakovsky.png', title: 'Проект по популяризации творчества А.Е. Кулаковского среди молодежи' },
-    { link: '/link2', image: '/kulakovsky.jpg', title: 'Запуск нового проекта' },
-    { link: '/link3', image: '/kulakovsky-1.jpg', title: 'Фестиваль национальных культур' },
+    { link: '/kbuild/about', image: '/kulakovsky.png', title: 'Проект по популяризации творчества А.Е. Кулаковского среди молодежи' },
+    { link: '/kbuild/link2', image: '/kulakovsky.jpg', title: 'Запуск нового проекта' },
+    { link: '/kbuild/link3', image: '/kulakovsky-1.jpg', title: 'Фестиваль национальных культур' },
     // Add more items as needed
 ]
 
