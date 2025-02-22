@@ -115,7 +115,7 @@ export default function Layout({ children }: LayoutProps) {
                 <aside ref={sidebarRef} className={`z-50 flex-shrink-0 fixed space-y-4 inset-y-0 left-0 w-64 bg-gray-100 p-4 transition-transform lg:relative lg:translate-x-0 ${isSidebarOpen ? "translate-x-0" : "-translate-x-full"}`}>
                     <div className="flex w-full justify-between">
                         <Link href={'/'} className="flex justify-start h-16 w-32">
-                            <Image alt="logo" className="w-auto h-auto object-scale-down" width={160} height={60} src={`/kbuild/logo-black.png`} />
+                            <Image alt="logo" className="w-auto h-auto object-scale-down" width={160} height={60} src={`/logo-black.png`} />
                         </Link>
 
                         <button className="absolute top-4 right-4 lg:hidden" onClick={() => setIsSidebarOpen(false)}>
@@ -141,7 +141,7 @@ export default function Layout({ children }: LayoutProps) {
 
                         <div className="flex w-full">
                             <Link href={'/'} className="flex justify-start h-10 w-32">
-                                <Image alt="logo" className="w-auto h-auto object-scale-down" width={160} height={60} src={`/kbuild/logo-black.png`} />
+                                <Image alt="logo" className="w-auto h-auto object-scale-down" width={160} height={60} src={`/logo-black.png`} />
                             </Link>
                         </div>
                     </header>
